@@ -1,6 +1,4 @@
-Here's a basic README template for your banking system project in C++. You can customize it as needed:
 
----
 
 # **Basic Banking System Using C++**
 
@@ -97,6 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from various basic C++ projects.
 - Guidance and support from mentors and online communities.
 
----
 
-You can create a `README.md` file in your project folder and paste the above content into it. Let me know if you want to include any specific details or modify it further!
